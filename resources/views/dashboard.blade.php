@@ -19,6 +19,12 @@
                 </div>
             </div>
         </div>
+    </div>
+    <livewire:foo.panel/>
+    <livewire:posts/>
+    <livewire:create/>
+    <livewire:foo/>
+
         {{--subscribers profil table template--}}
 
 
